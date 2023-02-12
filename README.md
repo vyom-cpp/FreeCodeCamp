@@ -8,3 +8,4 @@
 - > Cafe Menu<br>https://vyom-cpp.github.io/FreeCodeCamp/2CafeMenu/
 - > Colored Markers<br>https://vyom-cpp.github.io/FreeCodeCamp/3ColoredMarkers/
 - > Registration Form<br>https://vyom-cpp.github.io/FreeCodeCamp/4RegistrationForm/
+- > Rotkho's Painting<br>https://vyom-cpp.github.io/FreeCodeCamp/6RothkoPainting/
