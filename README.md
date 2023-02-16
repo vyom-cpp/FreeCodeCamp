@@ -11,3 +11,4 @@
 - > Rotkho's Painting<br>https://vyom-cpp.github.io/FreeCodeCamp/6RothkoPainting/
 - > Flex Box<br>https://vyom-cpp.github.io/FreeCodeCamp/7FlexBox/
 - > Nutrition Label<br>https://vyom-cpp.github.io/FreeCodeCamp/8NutritionalLabel/   
+- > Accessibility Quiz<br>https://vyom-cpp.github.io/FreeCodeCamp/9Quiz/
