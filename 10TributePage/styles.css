@@ -35,3 +35,14 @@ h2 {
 a {
   color: #477ca7;
 }
+
+a:visited {
+  color: #74638f;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #000;
+}
