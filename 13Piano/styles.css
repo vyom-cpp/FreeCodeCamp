@@ -45,3 +45,31 @@ html {
   height: 100px;
   border-radius: 0 0 3px 3px;
 }
+.logo {
+    width: 200px;
+    position: absolute;
+    top: 23px;
+  }
+  
+  @media (max-width: 768px) {
+    #piano {
+      width: 358px;
+    }
+  
+    .keys {
+      width: 318px;
+    }
+  
+    .logo {
+      width: 150px;
+    }
+  }
+  
+  @media (max-width: 1199px) and (min-width: 769px) {
+      #piano{
+        width: 675px ;
+      }
+      .keys{
+        width:633px;
+      }
+  }
