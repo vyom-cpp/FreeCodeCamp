@@ -2,6 +2,7 @@
 ## Projects
 - > Survey Form<br>https://vyom-cpp.github.io/FreeCodeCamp/5SurveyForm/
 - > Tribute Page<br>https://vyom-cpp.github.io/FreeCodeCamp/10TributePage/
+- > Documentation Page<br>https://vyom-cpp.github.io/FreeCodeCamp/14DocumentationPage/
 
 ## Trial Projects
 
