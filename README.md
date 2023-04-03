@@ -18,3 +18,4 @@
 - > Picasso's Painting<br>https://vyom-cpp.github.io/FreeCodeCamp/12PicassoPainting/
 - > Piano<br>https://vyom-cpp.github.io/FreeCodeCamp/13Piano/
 - > City Skyline<br>https://vyom-cpp.github.io/FreeCodeCamp/15CitySkyline/
+- > Magazine<br>https://vyom-cpp.github.io/FreeCodeCamp/16Magazine/
