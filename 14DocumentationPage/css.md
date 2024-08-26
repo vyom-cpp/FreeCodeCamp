@@ -1,0 +1,42 @@
+```css
+#navbar{
+  position:fixed;
+  left:0;
+  top:0;
+  width:200px;
+  height:100vh;
+  display:block;
+}
+.nav-link{
+  display:block;
+  width:180px;
+  height:8.4vh;
+  color:grey;
+  border-bottom:2px solid gray;
+  border-right:2px solid gray;
+}
+a{
+  text-decoration:none;
+}
+#main-doc{
+  position:absolute;
+  top:0;
+  left:190px;
+  width:80vw;
+  color:grey;
+}
+header{
+  font-size:1.8rem;
+  color:black;
+}
+@media (max-width:426px){
+  #navbar{
+    display:none;
+  }
+  #main-doc{
+    position:absolute;
+    top:0;
+    left:0;
+  }
+}
+```
